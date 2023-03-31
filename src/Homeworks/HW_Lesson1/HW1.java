@@ -1,4 +1,5 @@
-package Homeworks;
+package Homeworks.HW_Lesson1;
+
 import java.math.BigDecimal;
 
 //Використовуючи IntelliJ IDEA, створіть проект.
@@ -8,9 +9,11 @@ import java.math.BigDecimal;
 //файл завдання або написати код програми у відповідь.
 
 public class HW1 {
-        public static void main(String[] args) {
-            double pi = 3.141592653;
-            BigDecimal e = new BigDecimal("2.7182818284590452");
-            System.out.print("PI = " + pi + ", and Eiler = " + e + ".");
-        }
+    public static void main(String[] args) {
+        double pi = 3.141592653;
+        BigDecimal e = new BigDecimal("2.7182818284590452");
+
+        System.out.println("PI = " + pi);
+        System.out.print("e = " + e);
+    }
 }

@@ -1,7 +1,8 @@
-package Homeworks;
+package Homeworks.HW_Lesson1;
 
 //Використовуючи IntelliJ IDEA, створіть проект. Створіть необхідну кількість
 //змінних типу char, кожній змінній надайте значення одного символу у форматі UNICODE. Виведіть у консоль фразу «Здрастуйте, ВАШЕ_ІМ'Я!».
+
 public class HW3 {
     public static void main(String[] args) {
         char char1 = '\u0417';

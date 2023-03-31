@@ -1,4 +1,4 @@
-package Homeworks;
+package Homeworks.HW_Lesson1;
 
 //Використовуючи IntelliJ IDEA, створіть проект. Створіть три рядкові змінні та надайте їм значення:
 //"Мій рядок 1"
@@ -8,13 +8,13 @@ package Homeworks;
 
 public class HW2 {
     public static void main(String[] args) {
-            String myString1 = "Мій рядок 1";
-            String myString2 = "Мій рядок 2";
-            String myString3 = "Мій рядок 3";
+        String myString1 = "Мій рядок 1";
+        String myString2 = "Мій рядок 2";
+        String myString3 = "Мій рядок 3";
 
-            System.out.println(myString1);
-            System.out.println(myString2);
-            System.out.println(myString3);
+        System.out.println(myString1);
+        System.out.println(myString2);
+        System.out.println(myString3);
     }
 }
 
