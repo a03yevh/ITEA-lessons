@@ -19,6 +19,6 @@ public class HW7_Volume {
         h = input.nextFloat();
 
         System.out.println("S => " + (2 * PI * R * (R + h)));
-        System.out.println("V => " + (PI * Math.pow(R,2) * h));
+        System.out.println("V => " + (PI * Math.pow(R, 2) * h));
     }
 }
