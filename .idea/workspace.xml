@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="HW7 update">
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson1/HW7_Volume.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson1/HW7_Volume.java" afterDir="false" />
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="HW0 update">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson1/HW0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson1/HW0.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680340287200</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HW7 update">
+      <created>1680340322336</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1680340322336</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -95,6 +103,7 @@
     <MESSAGE value="HW5 update" />
     <MESSAGE value="HW6 update" />
     <MESSAGE value="HW7 update" />
-    <option name="LAST_COMMIT_MESSAGE" value="HW7 update" />
+    <MESSAGE value="HW0 update" />
+    <option name="LAST_COMMIT_MESSAGE" value="HW0 update" />
   </component>
 </project>
