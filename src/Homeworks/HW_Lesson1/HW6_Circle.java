@@ -7,13 +7,13 @@ import java.util.Scanner;
 
 public class HW6_Circle {
     public static void main(String[] args) {
-        float pi = 3.14f;
+        final double PI = Math.PI;
         float R;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter R: ");
         R = input.nextFloat();
 
-        System.out.print("S = " + (pi * Math.pow(R,2)));
+        System.out.print("S = " + (PI * Math.pow(R,2)));
     }
 }
