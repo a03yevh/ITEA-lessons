@@ -9,7 +9,7 @@ V = πR2 h Площа S поверхні циліндра обчислюєтьс
 public class HW7_Volume {
     public static void main(String[] args) {
         float R, h;
-        float pi = 3.14f;
+        final double PI = Math.PI;
 
         Scanner input = new Scanner(System.in);
         System.out.print("Enter R: ");
@@ -18,7 +18,7 @@ public class HW7_Volume {
         System.out.print("Enter h: ");
         h = input.nextFloat();
 
-        System.out.println("S => " + (2 * pi * R * (R + h)));
-        System.out.println("V => " + (pi * Math.pow(R,2) * h));
+        System.out.println("S => " + (2 * PI * R * (R + h)));
+        System.out.println("V => " + (PI * Math.pow(R,2) * h));
     }
 }
