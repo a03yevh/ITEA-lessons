@@ -17,7 +17,7 @@ public class HW4 {
 
         System.out.println("Result 'z = --x - y * 5' => " + (z = --x - y * 5)); // z = (-8 - 1) - 12 * 5 = -9 - 12 * 5 = -69.
 
-        System.out.println("Result 'y /= x + 5% z' => " + (y /= x + 5 % z)); // y = 12 / (-9 + (5 % (-69)) = -0.164 (а так як int) => 0, а в компіляції -3 (???)
+        System.out.println("Result 'y /= x + 5% z' => " + (y /= x + 5 % z)); // y = 12 / (-9 + (5 % (-69)) = 12 / -9+5 = -3.
 
         System.out.println("Result 'z = x++ + y * 5' => " + (z = x++ + y * 5)); // z = -9 + (-3) * 5 = -24.
 
