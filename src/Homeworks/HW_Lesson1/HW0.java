@@ -20,6 +20,18 @@ public class HW0 {
         int d = y--;
 
         System.out.println("\na = " + a + "; b = " + b + "; c = " + c + "; d = " + d);
+        
+        x = x + y;
+        System.out.println("\nx => " + x);
+        
+        y -= x;
+        System.out.println("y => " + y);
+        
+        x *= y;
+        System.out.println("x => " + x);
+        
+        y /= x;
+        System.out.println("y => " + y);
     }
 }
 
