@@ -22,7 +22,7 @@ public class HW1_Interval {
             System.out.print(number + " in [36; 50]");
         }
 
-        else if (number >= 50 && number < 101) {
+        else if (number >= 51 && number < 101) {
             System.out.print(number + " in [50; 100]");
         }
 
