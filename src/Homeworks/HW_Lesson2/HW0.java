@@ -27,10 +27,16 @@ public class HW0 {
                 System.out.println("'*' => " + result);
                 break;
             case "/":
+                if (operand2 == 0) {
+                    System.out.println("Error: operand2 mustn't be 0, correct it please");
+            }
+                else {
                 result = operand1 / operand2;
                 System.out.println("'/' => " + result);
+            }
                 break;
             default:
+                System.out.println("Wrong sign, check it please");
                 break;
         }
     }
