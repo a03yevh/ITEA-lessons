@@ -4,26 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="HW2 full.">
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L14.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L15.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L16.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L17.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L7.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L8_For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson3/L9.java" afterDir="false" />
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Add Lesson3">
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW2_SumMin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW3_Printing_Shapes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW4_Delivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW8_Rectangle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW9_Fibonacci.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson2/HW0.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson2/HW0.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson2/HW1_Interval.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson2/HW1_Interval.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson2/HW2_Translator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson2/HW2_Translator.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +31,7 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -139,7 +133,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681477415815</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add Lesson3">
+      <created>1681993601983</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1681993601983</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -152,6 +153,7 @@
     <MESSAGE value="HW4 update" />
     <MESSAGE value="Lessons+HW update." />
     <MESSAGE value="HW2 full." />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2 full." />
+    <MESSAGE value="Add Lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson3" />
   </component>
 </project>
