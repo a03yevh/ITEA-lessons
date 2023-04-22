@@ -4,29 +4,17 @@ import java.util.Scanner;
 /*Знайдіть послідовність Фібоначчі. Одне стартове число користувач вводить, друге вводить користувач до шуканого.*/
 
 public class HW9_Fibonacci {
-    public static void main(String[] args) {
-        int first, second, max, next;
-
-        Scanner scanner = new Scanner(System.in);
-
-        System.out.print("Enter the first number: ");
-        first = scanner.nextInt();
-
-        System.out.print("Enter the second number: ");
-        second = scanner.nextInt();
-
-        System.out.print("Enter the maximum number in the sequence: ");
-        max = scanner.nextInt();
-
-        System.out.print(first + " " + second + " ");
-
-        next = first + second;
-
-        while (next <= max) {
-            System.out.print(next + " ");
-            first = second;
-            second = next;
-            next = first + second;
+    public static void main(String[] args){
+        int a = 1;
+        int b = 3;
+        int c;
+        System.out.print(a+" "+b+" ");
+        for(int i = 3; i <= 11; i++){
+            c=a+b;
+            System.out.print(c+" ");
+            a=b;
+            b=c;
         }
+        System.out.println();
     }
 }
