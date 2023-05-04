@@ -4,16 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Added description to HW9.">
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson4/L1_Arr.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson4/L2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson4/L3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson4/L4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson4/L5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson4/L6.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson4/Test_arr2d.java" afterDir="false" />
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="HW (Lesson3) updated. + Added Lesson4.">
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW0_CustomerArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson5/L1_Methods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson5/L2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson5/L3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson5/L4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson5/L5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson5/L5_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson5/L6.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW9_Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson3/HW9_Fibonacci.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -151,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1682102980724</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="HW (Lesson3) updated. + Added Lesson4.">
+      <created>1682153719779</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1682153719779</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -167,6 +174,7 @@
     <MESSAGE value="Add Lesson3" />
     <MESSAGE value="HW Lesson2 &amp; Lesson3 update" />
     <MESSAGE value="Added description to HW9." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added description to HW9." />
+    <MESSAGE value="HW (Lesson3) updated. + Added Lesson4." />
+    <option name="LAST_COMMIT_MESSAGE" value="HW (Lesson3) updated. + Added Lesson4." />
   </component>
 </project>
