@@ -26,7 +26,7 @@ public class HW0_CustomerArray {
 
         //Find max
         int max = array[0];
-        for (int i = 0; i < N; i++) {
+        for (int i = 1; i < N; i++) {
             if (array[i] > max) {
                 max = array[i];
             }
@@ -35,7 +35,7 @@ public class HW0_CustomerArray {
 
         //Find min
         int min = array[0];
-        for (int i = 0; i < N; i++) {
+        for (int i = 1; i < N; i++) {
             if (array[i] < min) {
                 min = array[i];
             }
