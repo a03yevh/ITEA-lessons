@@ -1,5 +1,5 @@
 package Homeworks.HW_Lesson4;
-import java.util.Scanner;
+import java.util.Arrays;
 
 /*Використовуючи IntelliJ IDEA, створіть клас ReversedArray. Створити метод myReverse(int [] array), який приймає як аргумент масив цілочислових елементів і повертає
 інвертований масив (елементи масиву у зворотному порядку). Створити метод int [] subArray (int [] array, int index, int count). Метод повертає частину
@@ -8,45 +8,31 @@ count містить значення більше, ніж кількість е
 то під час формування нового масиву розмірністю в count, заповніть одиницями ті елементи, які не були скопійовані з вихідного масиву.*/
 
 public class HW1_ReversedArray {
-    public static void myReverse(int [] array) {
-        for (int i = array.length-1; i >= 0; i--) {
-            System.out.print(array[i] + " ");
+    public static int[] myReverse(int[] array) {
+        int[] reversedArray = new int[array.length];
+        for (int i = 0; i < array.length; i++) {
+            reversedArray[i] = array[array.length - i - 1];
         }
+        return reversedArray;
     }
 
     public static int[] subArray(int[] array, int index, int count) {
-        int[] sub = new int[count];
+        int[] subArray = new int[count];
         for (int i = 0; i < count; i++) {
-            if (i + index < array.length) {
-                sub[i] = array[i + index];
+            if (index + i < array.length) {
+                subArray[i] = array[index + i];
             } else {
-                sub[i] = 1;
+                subArray[i] = 1;
             }
         }
-        return sub;
+        return subArray;
     }
 
     public static void main(String[] args) {
-        Scanner scanner = new Scanner(System.in);
-        System.out.print("Enter array length: ");
-        int N = scanner.nextInt();
-
-        int array[] = new int[N];
-
-        for (int i = 0; i < N; i++) {
-            System.out.print("Enter array [" + i + "]: ");
-            array[i] = scanner.nextInt();
-        }
-
-        //Task 1
-        System.out.println("myReverse result: ");
-        myReverse(array);
-
-        //Task 2
-        System.out.print("\nsubArray result: ");
-        int[] sub1 = subArray(array, 4, 6);
-        for (int i = 0; i < N; i++) {
-            System.out.print(sub1[i] + " ");
-        }
+        int[] array = {1, 2, 3, 4, 5};
+        int[] reversedArray = myReverse(array);
+        int[] subArray = subArray(array, 2, 4);
+        System.out.println(Arrays.toString(reversedArray));
+        System.out.println(Arrays.toString(subArray));
     }
 }

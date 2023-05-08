@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Added Lesson 5 &amp; HW4">
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW10_Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW11_Bank.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW11_Bank_Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW12_Delivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW13.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW14_calc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW1_ReversedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW2_UserArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW3_SumArrEl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW4_SumArrEl_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW5_Arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW6_Arithmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW7_Conversion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW8_NumbersCheck.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW9_PowerA3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW9_PowerA3_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson6/Apple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson6/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson6/Peach.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson6/Student.java" afterDir="false" />
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Add Lesson6 + Updated HW_Lesson4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW0_CustomerArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW0_CustomerArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW1_ReversedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW1_ReversedArray.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +158,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683233169334</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Add Lesson6 + Updated HW_Lesson4">
+      <created>1683584254733</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1683584254733</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -197,6 +183,7 @@
     <MESSAGE value="Added description to HW9." />
     <MESSAGE value="HW (Lesson3) updated. + Added Lesson4." />
     <MESSAGE value="Added Lesson 5 &amp; HW4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Lesson 5 &amp; HW4" />
+    <MESSAGE value="Add Lesson6 + Updated HW_Lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson6 + Updated HW_Lesson4" />
   </component>
 </project>
