@@ -14,11 +14,11 @@ public class HW1_Person {
         this.age = y;
     }
     public void move() {
-        System.out.println(fullName + " is moving...");
+        System.out.println(fullName + " is moving... ");
     }
 
     public void talk() {
-        System.out.println(fullName + " is talking...");
+        System.out.println(fullName + " is talking... ");
     }
 
     public static void main(String[] args) {
