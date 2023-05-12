@@ -42,23 +42,26 @@ public class HW2_Matrix {
         this.columns = other.columns;
     }
 
-    public void print() {
+    @Override
+    public String toString() {
+        StringBuilder sb = new StringBuilder();
         for (int i = 0; i < rows; i++) {
             for (int j = 0; j < columns; j++) {
-                System.out.print(data[i][j] + " ");
+                sb.append(data[i][j]).append(" ");
             }
-            System.out.println();
+            sb.append("\n");
         }
+        return sb.toString();
     }
 
     public static void main(String[] args) {
         double[][] array1 = {{1.0, 2.0}, {3.0, 4.0}};
         double[][] array2 = {{5.0, 6.0}, {7.0, 8.0}};
 
-        HW2_Matrix HW2_Matrix1 = new HW2_Matrix(array1);
-        HW2_Matrix HW2_Matrix2 = new HW2_Matrix(array2);
+        HW2_Matrix matrix1 = new HW2_Matrix(array1);
+        HW2_Matrix matrix2 = new HW2_Matrix(array2);
 
-        HW2_Matrix1.add(HW2_Matrix2);
-        HW2_Matrix1.print();
+        matrix1.add(matrix2);
+        System.out.println(matrix1);
     }
 }
