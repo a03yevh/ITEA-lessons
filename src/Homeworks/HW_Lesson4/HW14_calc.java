@@ -4,19 +4,15 @@ package Homeworks.HW_Lesson4;
 повертає значення кожного аргументу, поділеного на 5.*/
 
 public class HW14_calc {
-    public static int calculate(int x) {
-        return x / 5;
+    public static String calculate(int x, int y, int z) {
+        return "A: " + (x / 5) + "; B: " + (y / 5) + "; C: " + (z / 5);
     }
 
     public static void main(String[] args) {
         int a = 15;
         int b = 25;
         int c = 35;
-        int resultA = calculate(a);
-        int resultB = calculate(b);
-        int resultC = calculate(c);
-        System.out.println("Result for a: " + resultA);
-        System.out.println("Result for b: " + resultB);
-        System.out.println("Result for c: " + resultC);
+        String res = calculate(a, b, c);
+        System.out.println(res);
     }
 }

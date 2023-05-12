@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Add Lesson6 + Updated HW_Lesson4">
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Updated 12.05.23">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW1_ReversedArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW1_ReversedArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW14_calc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson4/HW14_calc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +165,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683584254733</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Updated 12.05.23">
+      <created>1683914686750</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1683914686750</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -184,6 +191,7 @@
     <MESSAGE value="HW (Lesson3) updated. + Added Lesson4." />
     <MESSAGE value="Added Lesson 5 &amp; HW4" />
     <MESSAGE value="Add Lesson6 + Updated HW_Lesson4" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Lesson6 + Updated HW_Lesson4" />
+    <MESSAGE value="Updated 12.05.23" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated 12.05.23" />
   </component>
 </project>
