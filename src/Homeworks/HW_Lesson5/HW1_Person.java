@@ -1,8 +1,8 @@
 package Homeworks.HW_Lesson5;
 
 public class HW1_Person {
-    String fullName;
-    int age;
+    private String fullName;
+    private int age;
 
     HW1_Person() { }
 
@@ -10,11 +10,11 @@ public class HW1_Person {
         this.fullName = x;
         this.age = y;
     }
-    void move() {
+    public void move() {
         System.out.println(fullName + " is moving...");
     }
 
-    void talk() {
+    public void talk() {
         System.out.println(fullName + " is talking...");
     }
 
