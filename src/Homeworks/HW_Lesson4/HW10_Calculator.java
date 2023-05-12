@@ -8,7 +8,7 @@ import java.util.Scanner;
 
 public class HW10_Calculator {
     public static void calculate(int a, int b, int c) {
-        System.out.println("Result: " + ((a + b + c) / 3));
+        System.out.println("Result: " + ((a + b + c) / 3.0));
     }
 
     public static void main(String[] args) {
