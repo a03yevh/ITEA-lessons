@@ -5,8 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="HW2_Matrix updated.">
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Animals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Pigeon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Sedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Truck.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson5/HW1_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson5/HW1_Person.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
