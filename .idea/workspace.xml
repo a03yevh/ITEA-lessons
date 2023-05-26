@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="HW2_Matrix updated.">
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Animals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Cow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Pigeon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Sedan.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson7/Truck.java" afterDir="false" />
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Added Lesson7.">
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW2_ClassRoom.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW3_Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW4_DocumentWorker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW6_Printer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,7 +204,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683922638267</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Added Lesson7.">
+      <created>1684573656291</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1684573656291</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -228,6 +234,7 @@
     <MESSAGE value="Add HW_Lesson5" />
     <MESSAGE value="HW1_Person updated." />
     <MESSAGE value="HW2_Matrix updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="HW2_Matrix updated." />
+    <MESSAGE value="Added Lesson7." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Lesson7." />
   </component>
 </project>
