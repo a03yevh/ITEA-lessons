@@ -65,10 +65,6 @@ public class Main {
 
         System.out.println("\n=========================================\n");
 
-        //Exercise 5:
-
-        System.out.println("\n=========================================\n");
-
         //Exercise 6:
         HW6_Printer printer = new HW6_Printer();
         printer.print("This is a regular message");
