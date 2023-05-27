@@ -4,12 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Added HW_Leeson6.">
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Updated Main.">
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Abstract/BaseClassCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Abstract/Convert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Book_LastEx_by_Methods/Begin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Book_LastEx_by_Methods/For.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Book_LastEx_by_Methods/If.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW2_ClassRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW2_ClassRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW3_Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW3_Vehicle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW4_DocumentWorker.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW4_DocumentWorker.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW6_Printer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW6_Printer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +41,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "C:/Users/yevhe/Downloads/MyFirstPRoject-master",
-    "settings.editor.selected.configurable": "preferences.keymap"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/yevhe/Downloads/MyFirstPRoject-master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -217,7 +220,21 @@
       <option name="project" value="LOCAL" />
       <updated>1685126643384</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Updated HW_Lesson6.">
+      <created>1685139029446</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1685139029446</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Updated Main.">
+      <created>1685139098470</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1685139098470</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -242,6 +259,9 @@
     <MESSAGE value="HW2_Matrix updated." />
     <MESSAGE value="Added Lesson7." />
     <MESSAGE value="Added HW_Leeson6." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW_Leeson6." />
+    <MESSAGE value="Updated HW_Leeson6." />
+    <MESSAGE value="Updated HW_Lesson6." />
+    <MESSAGE value="Updated Main." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated Main." />
   </component>
 </project>

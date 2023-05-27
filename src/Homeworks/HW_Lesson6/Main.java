@@ -7,9 +7,10 @@ public class Main {
         Pupil pupil1 = new ExcellentPupil();
         Pupil pupil2 = new GoodPupil();
         Pupil pupil3 = new BadPupil();
+        Pupil pupil4 = new GoodPupil();
 
-        HW2_ClassRoom classRoom = new HW2_ClassRoom(pupil1, pupil2, pupil3);
-        classRoom.showClassroomInfo();
+        HW2_ClassRoom classRoom = new HW2_ClassRoom(pupil1, pupil2, pupil3, pupil4);
+        classRoom.printClassroomInfo();
 
         System.out.println("=========================================\n");
 
@@ -66,11 +67,8 @@ public class Main {
         System.out.println("\n=========================================\n");
 
         //Exercise 6:
-        HW6_Printer printer = new HW6_Printer();
-        printer.print("This is a regular message");
-
-        ColoredPrinter coloredPrinter = new ColoredPrinter();
-        coloredPrinter.print("This message will be printed in a random color");
+        HW6_Printer printer = new ColoredPrinter();
+        printer.print("Hello");
 
         System.out.println("\n=========================================\n");
     }
