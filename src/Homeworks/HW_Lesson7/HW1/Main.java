@@ -11,7 +11,6 @@ public class Main {
             System.out.println("1 -> Ар-деко");
             System.out.println("2 -> Вікторіанській");
             System.out.println("3 -> Модерн");
-            System.out.println("4 -> Поличка");
             System.out.println();
             System.out.print("Ваш вибір: ");
 
@@ -29,9 +28,6 @@ public class Main {
                     break;
                 case 3:
                     factory = new ModernFactory();
-                    break;
-                case 4:
-                    factory = new ArtDecoFactory();
                     break;
                 default:
                     System.out.println("Невірний вибір. Спробуйте ще раз.");
