@@ -4,15 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Updated Main.">
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Abstract/BaseClassCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Abstract/Convert.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Book_LastEx_by_Methods/Begin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Book_LastEx_by_Methods/For.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson8_Book_LastEx_by_Methods/If.java" afterDir="false" />
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Updated.">
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW0/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW0/CheckCar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW0/Ford.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW0/KIA.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW0/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW0/Mitsubishi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW0/Toyota.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/ArtDecoArmChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/ArtDecoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/ArtDecoSofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/ArtDecoTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Chair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Furniture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/FurnitureFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/ModernArmChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/ModernFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/ModernSofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/ModernTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Shelf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Sofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Table.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/VictorianArmChair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/VictorianFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/VictorianSofa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/VictorianTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW2/Playable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW2/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW2/Recodable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW4/CelsiusToFahrenheitConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW4/CelsiusToKelvinConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW4/ConverterTemperature.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW2_ClassRoom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/HW2_ClassRoom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson6/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +49,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -46,7 +74,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/yevhe/Downloads/MyFirstPRoject-master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/Java [Itea]/ITEA-lessons&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
@@ -234,7 +262,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685139098470</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Updated.">
+      <created>1685181460929</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1685181460929</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -262,6 +297,7 @@
     <MESSAGE value="Updated HW_Leeson6." />
     <MESSAGE value="Updated HW_Lesson6." />
     <MESSAGE value="Updated Main." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated Main." />
+    <MESSAGE value="Updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated." />
   </component>
 </project>
