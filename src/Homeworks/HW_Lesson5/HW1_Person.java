@@ -1,5 +1,13 @@
 package Homeworks.HW_Lesson5;
 
+/*Клас Person
+        Створити клас Person, який містить:
+        1. змінні fullName, age;
+        2. методи move() і talk(), у яких просто вивести на консоль повідомлення - "Який Person говорить".
+        3. Додайте два конструктори - Person() та Person(fullName, age).
+        4. Створіть два об'єкти цього класу. Один об'єкт ініціалізується конструктором Person (), інший – Person (fullName, age).
+        5. Викличте методи move() та talk().*/
+
 public class HW1_Person {
     private String fullName;
     private int age;

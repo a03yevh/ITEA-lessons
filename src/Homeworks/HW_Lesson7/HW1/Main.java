@@ -30,9 +30,6 @@ public class Main {
                 case 3:
                     factory = new ModernFactory();
                     break;
-                case 4:
-                    factory = new ArtDecoFactory();
-                    break;
                 default:
                     System.out.println("Невірний вибір. Спробуйте ще раз.");
                     System.out.println();
