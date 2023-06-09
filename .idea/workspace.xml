@@ -4,25 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Added HW_Lesson7">
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex1/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex1/Interface1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex1/Interface2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex1/Interface3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex1/Interface4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex2/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex2/HardMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex2/SimpleMath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex3/ConvertUAHtoEUR.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex3/ConvertUAHtoUSD.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex3/Convertator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson9/ex3/Main.java" afterDir="false" />
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Updated.">
+      <change afterPath="$PROJECT_DIR$/src/HW_Lesson8/HW0/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_Lesson8/HW1/Zoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_Lesson8/HW2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_Lesson8/HW3/Friends.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/HW_Lesson8/HW4/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson5/HW1_Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson5/HW1_Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson5/HW2_Matrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson5/HW2_Matrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson7/HW1/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -259,7 +247,14 @@
       <option name="project" value="LOCAL" />
       <updated>1685711326401</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Updated.">
+      <created>1686296429969</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1686296429969</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -285,9 +280,9 @@
     <MESSAGE value="Updated HW_Leeson6." />
     <MESSAGE value="Updated HW_Lesson6." />
     <MESSAGE value="Updated Main." />
-    <MESSAGE value="Updated." />
     <MESSAGE value="Added HW_Lesson7." />
     <MESSAGE value="Added HW_Lesson7" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added HW_Lesson7" />
+    <MESSAGE value="Updated." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated." />
   </component>
 </project>
