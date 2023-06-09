@@ -1,4 +1,4 @@
-package HW_Lesson8.HW0;
+package Homeworks.HW_Lesson8.HW0;
 import java.util.ArrayList;
 
 public class Zoo {

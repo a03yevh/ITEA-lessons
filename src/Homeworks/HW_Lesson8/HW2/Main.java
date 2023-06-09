@@ -1,4 +1,4 @@
-package HW_Lesson8.HW2;
+package Homeworks.HW_Lesson8.HW2;
 import java.util.ArrayList;
 import java.lang.Math;
 import java.util.ListIterator;

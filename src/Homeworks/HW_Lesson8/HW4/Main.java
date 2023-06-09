@@ -1,4 +1,4 @@
-package HW_Lesson8.HW4;
+package Homeworks.HW_Lesson8.HW4;
 import java.util.ArrayList;
 
 public class Main {

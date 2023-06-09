@@ -1,4 +1,4 @@
-package HW_Lesson8.HW3;
+package Homeworks.HW_Lesson8.HW3;
 import java.util.ArrayList;
 import java.util.Collections;
 
