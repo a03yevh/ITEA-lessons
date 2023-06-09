@@ -1,6 +1,8 @@
 package Homeworks.HW_Lesson8.HW1;
 import java.util.ArrayList;
 
+/*Використовуючи Intelij IDEA, створити проект, пакет. Використовуючи клас Zoo Завдання 2, видалити 3, 5, 7 тварин, дізнатися розмір списку і вивести в консоль.*/
+
 public class Zoo {
     public static void main(String[] args) {
         ArrayList<String> list = new ArrayList<String>();

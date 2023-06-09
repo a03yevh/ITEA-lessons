@@ -3,6 +3,9 @@ import java.util.ArrayList;
 import java.lang.Math;
 import java.util.ListIterator;
 
+/*Використовуючи Intelij IDEA, створити проект, пакет. Створити клас Main, створити список цілих чисел і за допомогою ListIterator пройтись
+по списку і збільшити значення на 1.*/
+
 public class Main {
     public static void main(String[] args) {
         ArrayList<Integer> list = new ArrayList<Integer>();

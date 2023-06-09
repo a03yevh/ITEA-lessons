@@ -1,6 +1,9 @@
 package Homeworks.HW_Lesson8.HW4;
 import java.util.ArrayList;
 
+/*Використовуючи Intelij IDEA, створити проект, пакет. Створити class Main, у ньому створити список, додати вчителів, яких ви зможете згадати зі школи.
+І отримати індекс найкращого вчителя та самого не дуже. Вивести список у консоль.*/
+
 public class Main {
     public static void main(String[] args) {
         ArrayList<String> teacherList = new ArrayList<String>();

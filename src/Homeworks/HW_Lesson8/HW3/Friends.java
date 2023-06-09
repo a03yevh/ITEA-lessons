@@ -2,6 +2,9 @@ package Homeworks.HW_Lesson8.HW3;
 import java.util.ArrayList;
 import java.util.Collections;
 
+/*Використовуючи Intelij IDEA, створити клас Friends. За допомогою методів ArrayList додати масив імена друзів. Вивести список друзів, після вивести
+список друзів, відсортувавши в алфавітному порядку.*/
+
 public class Friends {
     public static void main(String[] args) {
         ArrayList<String> friendList = new ArrayList<String>();
