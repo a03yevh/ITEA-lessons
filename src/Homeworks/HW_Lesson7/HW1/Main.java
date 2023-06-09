@@ -11,7 +11,6 @@ public class Main {
             System.out.println("1 -> Ар-деко");
             System.out.println("2 -> Вікторіанській");
             System.out.println("3 -> Модерн");
-            System.out.println("4 -> Поличка");
             System.out.println();
             System.out.print("Ваш вибір: ");
 
