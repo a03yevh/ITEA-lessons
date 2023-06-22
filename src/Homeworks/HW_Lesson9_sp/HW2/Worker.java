@@ -1,17 +1,8 @@
 package Homeworks.HW_Lesson9_sp.HW2;
 
 import java.util.Arrays;
+import java.util.InputMismatchException;
 import java.util.Scanner;
-
-/*Створіть проект за допомогою IntelliJ IDEA. Потрібно: Описати клас з ім'ям Worker, що містить такі поля:
-         прізвище та ініціали працівника;
-         назва посади;
-         рік надходження на роботу.
-
-        Написати програму, яка виконує такі дії:
-         введення з клавіатури даних до масиву, що складається з п'яти елементів типу Worker (записи мають бути впорядковані за абеткою);
-         якщо значення року введено не у відповідному форматі, видає виняток.
-         виведення на екран прізвища працівника, стаж роботи якого перевищує введене значення.*/
 
 public class Worker {
     private String name;
@@ -42,9 +33,18 @@ public class Worker {
                 String name = scanner.nextLine();
                 System.out.print("Position: ");
                 String position = scanner.nextLine();
-                System.out.print("Year of employment: ");
-                int yearOfEmployment = scanner.nextInt();
-                scanner.nextLine();
+                int yearOfEmployment;
+
+                while (true) {
+                    try {
+                        System.out.print("Year of employment: ");
+                        String input = scanner.nextLine();
+                        yearOfEmployment = Integer.parseInt(input);
+                        break;
+                    } catch (NumberFormatException e) {
+                        System.out.println("Invalid input format. Please enter a valid year.");
+                    }
+                }
 
                 workers[i] = new Worker(name, position, yearOfEmployment);
             }
@@ -52,7 +52,17 @@ public class Worker {
             Arrays.sort(workers, (w1, w2) -> w1.getName().compareToIgnoreCase(w2.getName()));
 
             System.out.print("Enter the year to filter workers: ");
-            int filterYear = scanner.nextInt();
+            int filterYear;
+
+            while (true) {
+                try {
+                    String input = scanner.nextLine();
+                    filterYear = Integer.parseInt(input);
+                    break;
+                } catch (NumberFormatException e) {
+                    System.out.println("Invalid input format. Please enter a valid year.");
+                }
+            }
 
             System.out.println("Workers with experience greater than " + filterYear + ":");
 
