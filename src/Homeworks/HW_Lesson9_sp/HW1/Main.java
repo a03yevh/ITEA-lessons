@@ -4,16 +4,11 @@ package Homeworks.HW_Lesson9_sp.HW1;
 цілого числа (вік тварини), і містити перевантажений метод toString(), який повинен повертати назву екземпляра та вік тварини.*/
 public class Main {
     public static void main(String[] args) {
-        Animals dog = Animals.DOG;
-        dog.setAge(3);
-        System.out.println(dog);
+        Animals myAnimal = Animals.DOG;
+        System.out.println(myAnimal.toString());
 
-        Animals cat = Animals.CAT;
-        cat.setAge(5);
-        System.out.println(cat);
-
-        Animals bird = Animals.BIRD;
-        bird.setAge(2);
-        System.out.println(bird);
+        int animalAge = Animals.CAT.ordinal() + 1;
+        Animals newAnimal = Animals.values()[animalAge];
+        System.out.println(newAnimal.toString());
     }
 }
