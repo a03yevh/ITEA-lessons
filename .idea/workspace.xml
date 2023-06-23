@@ -6,8 +6,8 @@
   <component name="ChangeListManager">
     <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Updated.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW8/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW8/MyDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW8/MyDictionary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW9/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW9/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW9/MyClass.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW9/MyClass.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -315,7 +315,14 @@
       <option name="project" value="LOCAL" />
       <updated>1687515665178</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Updated.">
+      <created>1687515700388</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1687515700388</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
