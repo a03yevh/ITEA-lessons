@@ -7,14 +7,14 @@ package Homeworks.HW_Lesson9_sp.HW8;
 
 public class Main {
     public static void main(String[] args) {
-        MyDictionary<String, Integer> myDictionary = new MyDictionary<>();
+        MyDictionary dictionary = new MyDictionary();
+        dictionary.add("apple", "яблоко");
+        dictionary.add("car", "машина");
+        dictionary.add("house", "дом");
 
-        myDictionary.add("Key 1", 100);
-        myDictionary.add("Key 2", 200);
-        myDictionary.add("Key 3", 300);
+        System.out.println("Количество элементов в словаре: " + dictionary.getCount());
 
-        System.out.println("Total entries: " + myDictionary.size());
-
-        System.out.println("Value for Key 2: " + myDictionary.get("Key 2"));
+        String value = dictionary.getValue(1);
+        System.out.println("Значение по индексу 1: " + value);
     }
 }

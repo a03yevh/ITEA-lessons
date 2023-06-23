@@ -1,24 +1,41 @@
 package Homeworks.HW_Lesson9_sp.HW8;
 
-import java.util.HashMap;
-import java.util.Map;
-
-public class MyDictionary<K, V> {
-    private Map<K, V> dictionary;
+public class MyDictionary {
+    private String[] keys;
+    private String[] values;
+    private int count;
 
     public MyDictionary() {
-        dictionary = new HashMap<>();
+        keys = new String[10];
+        values = new String[10];
+        count = 0;
     }
 
-    public void add(K key, V value) {
-        dictionary.put(key, value);
+    public void add(String key, String value) {
+        if (count >= keys.length) {
+            int newSize = keys.length * 2;
+            String[] newKeys = new String[newSize];
+            String[] newValues = new String[newSize];
+            System.arraycopy(keys, 0, newKeys, 0, keys.length);
+            System.arraycopy(values, 0, newValues, 0, values.length);
+            keys = newKeys;
+            values = newValues;
+        }
+
+        keys[count] = key;
+        values[count] = value;
+        count++;
     }
 
-    public V get(K key) {
-        return dictionary.get(key);
+    public String getValue(int index) {
+        if (index >= 0 && index < count) {
+            return values[index];
+        } else {
+            throw new IndexOutOfBoundsException("Invalid index: " + index);
+        }
     }
 
-    public int size() {
-        return dictionary.size();
+    public int getCount() {
+        return count;
     }
 }
