@@ -8,13 +8,12 @@ package Homeworks.HW_Lesson9_sp.HW7;
 public class Main {
     public static void main(String[] args) {
         MyList<String> myList = new MyList<>();
-
         myList.add("Element 1");
         myList.add("Element 2");
         myList.add("Element 3");
 
-        System.out.println("Total elements: " + myList.size());
+        System.out.println("Size: " + myList.getSize());
 
-        System.out.println("Element at index 1: " + myList.get(1));
+        System.out.println(myList.get(1));
     }
 }
