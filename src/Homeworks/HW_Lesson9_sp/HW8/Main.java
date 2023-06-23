@@ -12,9 +12,9 @@ public class Main {
         dictionary.add("car", "машина");
         dictionary.add("house", "дом");
 
-        System.out.println("Кол-во элементов в словаре: " + dictionary.getCount());
+        System.out.println("Number of elements in the dictionary: " + dictionary.getCount());
 
         String value = dictionary.getValue(1);
-        System.out.println("Значение по индексу 1: " + value);
+        System.out.println("Value at index 1: " + value);
     }
 }
