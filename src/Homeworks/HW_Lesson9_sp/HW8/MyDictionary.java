@@ -31,7 +31,7 @@ public class MyDictionary {
         if (index >= 0 && index < count) {
             return values[index];
         } else {
-            throw new IndexOutOfBoundsException("Invalid index: " + index);
+            throw new IndexOutOfBoundsException("Invalid index -> " + index);
         }
     }
 
