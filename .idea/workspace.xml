@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Updated.">
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson10_sp/HW0/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson10_sp/HW1/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson10_sp/HW1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lessons/Lesson12/ex1/Main.java" afterDir="false" />
+    <list default="true" id="6cfcbc27-8d06-4c3b-9864-014ea0158f7e" name="Changes" comment="Updated">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW8/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW8/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW8/MyDictionary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Homeworks/HW_Lesson9_sp/HW8/MyDictionary.java" afterDir="false" />
@@ -42,15 +38,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Yevhenii/Downloads/VoiceChat&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/Yevhenii/Downloads/VoiceChat",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.keymap"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -347,12 +344,17 @@
       <option name="project" value="LOCAL" />
       <updated>1687517008792</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Add HW_Lesson10">
+      <created>1688039243310</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1688039243310</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="HW7 update" />
-    <MESSAGE value="HW0 update" />
     <MESSAGE value="HW4 update" />
     <MESSAGE value="Lessons+HW update." />
     <MESSAGE value="HW2 full." />
@@ -376,6 +378,8 @@
     <MESSAGE value="Added HW_Lesson8." />
     <MESSAGE value="Added." />
     <MESSAGE value="Updated." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated." />
+    <MESSAGE value="Add HW_Lesson10" />
+    <MESSAGE value="Updated" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated" />
   </component>
 </project>
