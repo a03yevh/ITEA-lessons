@@ -8,9 +8,8 @@ package Homeworks.HW_Lesson9_sp.HW8;
 public class Main {
     public static void main(String[] args) {
         MyDictionary dictionary = new MyDictionary();
-        dictionary.add("apple", "яблуко");
-        dictionary.add("car", "машина");
-        dictionary.add("house", "домівка");
+        dictionary.add(0, "one");
+        dictionary.add(2, "two");
 
         System.out.println("Number of elements in the dictionary: " + dictionary.getCount());
 

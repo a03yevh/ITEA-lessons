@@ -1,35 +1,29 @@
 package Homeworks.HW_Lesson9_sp.HW8;
 
 public class MyDictionary {
-    private String[] keys;
-    private String[] values;
+    private Pair[] pairs;
     private int count;
 
     public MyDictionary() {
-        keys = new String[10];
-        values = new String[10];
+        pairs = new Pair[10];
         count = 0;
     }
 
-    public void add(String key, String value) {
-        if (count >= keys.length) {
-            int newSize = keys.length * 2;
-            String[] newKeys = new String[newSize];
-            String[] newValues = new String[newSize];
-            System.arraycopy(keys, 0, newKeys, 0, keys.length);
-            System.arraycopy(values, 0, newValues, 0, values.length);
-            keys = newKeys;
-            values = newValues;
+    public void add(int key, String value) {
+        if (count >= pairs.length) {
+            int newSize = pairs.length * 2;
+            Pair[] newPairs = new Pair[newSize];
+            System.arraycopy(pairs, 0, newPairs, 0, pairs.length);
+            pairs = newPairs;
         }
 
-        keys[count] = key;
-        values[count] = value;
+        pairs[count] = new Pair(key, value);
         count++;
     }
 
     public String getValue(int index) {
         if (index >= 0 && index < count) {
-            return values[index];
+            return pairs[index].getValue();
         } else {
             throw new IndexOutOfBoundsException("Invalid index -> " + index);
         }
@@ -37,5 +31,23 @@ public class MyDictionary {
 
     public int getCount() {
         return count;
+    }
+
+    private static class Pair {
+        private final int key;
+        private final String value;
+
+        public Pair(int key, String value) {
+            this.key = key;
+            this.value = value;
+        }
+
+        public int getKey() {
+            return key;
+        }
+
+        public String getValue() {
+            return value;
+        }
     }
 }
