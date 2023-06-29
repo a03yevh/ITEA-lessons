@@ -14,7 +14,7 @@ public class Car implements Comparable<Car> {
     }
 
     public String toString() {
-        return this.model + " " + this.color + " " + this.speed + " " + this.price;
+        return this.model + " " + this.color + "5 " + this.speed + " " + this.price;
     }
 
     public int compareTo(Car next) {
