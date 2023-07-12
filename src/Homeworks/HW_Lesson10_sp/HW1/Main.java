@@ -2,6 +2,9 @@ package Homeworks.HW_Lesson10_sp.HW1;
 
 import java.util.Arrays;
 
+/*У папці з прикладами ex_004_comparable. Дописати логіку, щоб метод compareTo() здійснив пошук за швидкістю (якщо ж швидкість у 2-х об'єктів дорівнює, то шукаємо за
+ціною) -> ціною -> моделі -> кольору машини.*/
+
 public class Main {
     public static void main(String[] args) {
         Car c1 = new Car(190, 8000, "Mercedea", "Redb");
