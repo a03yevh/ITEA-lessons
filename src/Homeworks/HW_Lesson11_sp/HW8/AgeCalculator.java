@@ -9,7 +9,6 @@ import java.time.LocalDateTime;
 
 public class AgeCalculator {
     public static void main(String[] args) {
-        // Задайте свою дату народження
         LocalDateTime birthday = LocalDateTime.of(2003, 8, 22, 1, 25);
 
         LocalDateTime currentTime = LocalDateTime.now();
