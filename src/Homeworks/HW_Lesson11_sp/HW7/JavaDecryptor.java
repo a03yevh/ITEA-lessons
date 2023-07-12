@@ -18,7 +18,7 @@ public class JavaDecryptor {
     );
 
     public static void main(String[] args) {
-        String fileName = "mytext.txt"; // Replace with your file name
+        String fileName = "mytext.txt";
         Path filePath = Paths.get(fileName);
         try {
             String content = Files.readString(filePath);
